@@ -87,7 +87,7 @@ button {
     top: 50%;
     transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
-    color: #fff;
+    color: #f50000;
     border: none;
     padding: 10px;
     cursor: pointer;
